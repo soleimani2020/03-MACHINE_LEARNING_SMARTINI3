@@ -26,6 +26,7 @@ Clone the repository:
 git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
 cd MACHINE_LEARNING_SMARTINI3
 
+---
 
 ## 💡 Parametrization Framework
 
@@ -47,7 +48,7 @@ Two mailing lists are available for Open BEAGLE users and developers:
 
 SMARTINI3 is free and open-source software.  
 If you use it in your work, consider contributing improvements, documentation, or bug fixes.
-
+---
 
 ## 📚 Citation
 
