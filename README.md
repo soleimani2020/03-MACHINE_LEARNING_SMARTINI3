@@ -47,3 +47,23 @@ Two mailing lists are available for Open BEAGLE users and developers:
 
 SMARTINI3 is free and open-source software.  
 If you use it in your work, consider contributing improvements, documentation, or bug fixes.
+
+
+## 📚 Citation
+
+If you use **SMARTINI3** in your research, please cite the following references:
+
+### SMARTINI3 Reference
+
+```bibtex
+@article{soleimani2024smartini3,
+  title={SMARTINI3 parametrization of multi-scale membrane models via unsupervised learning methods},
+  author={Soleimani, Alireza and Risselada, Herre Jelger},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={25714},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
