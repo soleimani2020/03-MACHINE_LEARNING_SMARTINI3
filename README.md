@@ -3,14 +3,7 @@
 SMARTINI3 is a minimal yet realistic ultra-coarse-grained (UCG) membrane model, systematically parameterized using unsupervised learning and multi-objective evolutionary algorithms.
 It is designed to retain the biophysical fidelity of lipid membranes while enabling large-scale, efficient simulations, especially those involving Martini membrane proteins.
 
----
-## ⚙️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
-cd MACHINE_LEARNING_SMARTINI3
 
 ---
 
@@ -26,7 +19,14 @@ cd MACHINE_LEARNING_SMARTINI3
 | 💻 **6. GROMACS Support** | Fully compatible with GROMACS, enabling high-performance molecular dynamics simulations. |
 | ⚡ **7. High Computational Efficiency** | Achieves up to 35% improved performance compared to comparable coarse-grained models. |
 
+---
+## ⚙️ Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
+cd MACHINE_LEARNING_SMARTINI3
 
 ---
 
