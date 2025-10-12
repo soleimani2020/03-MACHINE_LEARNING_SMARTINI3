@@ -49,7 +49,7 @@ Fixing bugs
 
 ## 📚 Citation
 
-If you use SMARTINI3 in your research, please cite the following reference:
+If you use **SMARTINI3** in your research, please cite the following reference:
 
 ## SMARTINI3 Reference
 
