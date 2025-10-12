@@ -18,3 +18,10 @@ It is designed to retain the biophysical fidelity of lipid membranes while enabl
 | ⚡ **7. High Computational Efficiency** | Achieves up to 35% improved performance compared to comparable coarse-grained models. |
 
 ---
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/SMARTINI3.git
+cd SMARTINI3
