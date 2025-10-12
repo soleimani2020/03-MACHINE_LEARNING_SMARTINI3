@@ -25,3 +25,25 @@ Clone the repository:
 ```bash
 git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
 cd MACHINE_LEARNING_SMARTINI3
+
+
+## 💡 Parametrization Framework
+
+SMARTINI3 uses the **genetic algorithms** evolutionary computation framework for parameter optimization.
+
+### 🔬 genetic algorithms Integration
+
+The parameter optimization leverages **genetic algorithms (GAs)** to iteratively improve model fidelity.  
+Two mailing lists are available for Open BEAGLE users and developers:
+
+### 📬 Mailing Lists
+
+| List | Purpose |
+|------|---------|
+| **Open BEAGLE Users List** | For announcements, troubleshooting, and discussion of future developments. *(Now hosted on Google Groups; the old YahooGroups archive remains a valuable knowledge base.)* |
+| **Open BEAGLE Developers List** | For technical contributions, commit discussions, and bleeding-edge developments (Mercurial repository). |
+
+### 🤝 Contribute
+
+SMARTINI3 is free and open-source software.  
+If you use it in your work, consider contributing improvements, documentation, or bug fixes.
