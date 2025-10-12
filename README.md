@@ -28,14 +28,21 @@ cd MACHINE_LEARNING_SMARTINI3
 
 ---
 
-💡 Parametrization Framework
+## 💡 Parametrization Framework
 
-SMARTINI3 uses the genetic algorithms (GAs) evolutionary computation framework for parameter optimization.
+SMARTINI3 uses the **genetic algorithms (GAs)** evolutionary computation framework for parameter optimization.
 
-🔬 Genetic Algorithms Integration
+### 🔬 Genetic Algorithms Integration
 
-The parameter optimization leverages genetic algorithms (GAs) to iteratively improve model fidelity.
+The parameter optimization leverages **genetic algorithms (GAs)** to iteratively improve model fidelity.  
 Two mailing lists are available for Open BEAGLE users and developers:
+
+### 📬 Mailing Lists
+
+| List | Purpose |
+|------|---------|
+| **Open BEAGLE Users List** | For announcements, troubleshooting, and discussion of future developments. *(Now hosted on Google Groups; the old YahooGroups archive remains a valuable knowledge base.)* |
+| **Open BEAGLE Developers List** | For technical contributions, commit discussions, and bleeding-edge developments (Mercurial repository). |
 
 📬 Mailing Lists
 List	Purpose
