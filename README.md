@@ -31,13 +31,7 @@ cd MACHINE_LEARNING_SMARTINI3
 
 ---
 
-## 💡 Parametrization Framework
 
-SMARTINI3 uses a **genetic algorithms (GAs) evolutionary computation framework** for parameter optimization.
-
-### 🔬 Genetic Algorithms Integration
-
-The parameter optimization leverages genetic algorithms (GAs), enabling systematic and efficient exploration of the parameter space.
 
 ### 🤝 Contribute
 
