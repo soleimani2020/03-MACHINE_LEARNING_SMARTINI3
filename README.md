@@ -49,3 +49,23 @@ Improving the code
 Enhancing documentation
 
 Fixing bugs
+
+
+
+
+## 📚 Citation
+
+If you use SMARTINI3 in your research, please cite the following references:
+
+SMARTINI3 Reference
+
+@article{soleimani2024smartini3,
+  title={SMARTINI3 parametrization of multi-scale membrane models via unsupervised learning methods},
+  author={Soleimani, Alireza and Risselada, Herre Jelger},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={25714},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
