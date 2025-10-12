@@ -57,8 +57,9 @@ Fixing bugs
 
 If you use SMARTINI3 in your research, please cite the following references:
 
-SMARTINI3 Reference
+## SMARTINI3 Reference
 
+```bibtex
 @article{soleimani2024smartini3,
   title={SMARTINI3 parametrization of multi-scale membrane models via unsupervised learning methods},
   author={Soleimani, Alireza and Risselada, Herre Jelger},
