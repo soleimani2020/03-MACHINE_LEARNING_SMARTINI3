@@ -23,5 +23,5 @@ It is designed to retain the biophysical fidelity of lipid membranes while enabl
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SMARTINI3.git
-cd SMARTINI3
+git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
+cd MACHINE_LEARNING_SMARTINI3
