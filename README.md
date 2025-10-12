@@ -3,6 +3,7 @@
 SMARTINI3 is a minimal yet realistic ultra-coarse-grained (UCG) membrane model, systematically parameterized using unsupervised learning and multi-objective evolutionary algorithms.
 It is designed to retain the biophysical fidelity of lipid membranes while enabling large-scale, efficient simulations, especially those involving Martini membrane proteins.
 
+---
 
 ## 🌟 Key Features
 
@@ -16,3 +17,4 @@ It is designed to retain the biophysical fidelity of lipid membranes while enabl
 | 💻 **6. GROMACS Support** | Fully compatible with GROMACS, enabling high-performance molecular dynamics simulations. |
 | ⚡ **7. High Computational Efficiency** | Achieves up to 35% improved performance compared to comparable coarse-grained models. |
 
+---
