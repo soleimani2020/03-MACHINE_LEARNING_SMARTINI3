@@ -37,4 +37,4 @@ SMARTINI3 uses a **genetic algorithms (GAs) evolutionary computation framework**
 
 ### 🔬 Genetic Algorithms Integration
 
-The parameter optimization leverages genetic algorithms (GAs) to iteratively improve model fidelity, enabling systematic and efficient exploration of the parameter space.
+The parameter optimization leverages genetic algorithms (GAs), enabling systematic and efficient exploration of the parameter space.
