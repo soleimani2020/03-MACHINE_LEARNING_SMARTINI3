@@ -29,6 +29,7 @@ git clone https://github.com/soleimani2020/MACHINE_LEARNING_SMARTINI3.git
 cd MACHINE_LEARNING_SMARTINI3
 ---
 
+
 ## 💡 Parametrization Framework
 
 SMARTINI3 uses a **genetic algorithms (GAs) evolutionary computation framework** for parameter optimization.
