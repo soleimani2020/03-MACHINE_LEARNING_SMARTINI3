@@ -1,5 +1,6 @@
 ## 🧠 SMARTINI3
 **"Systematic Parametrization of Realistic Multi-Scale Membrane Models using unsupervised learning"**
+
 SMARTINI3 is a minimal yet realistic ultra-coarse-grained (UCG) membrane model, systematically parameterized using unsupervised 
 learning, specifically multi-objective evolutionary algorithms. The framework maintains biophysical fidelity of lipid membranes while enabling large-scale, efficient simulations, achieving 35% faster performance with Martini membrane proteins compared to standard models.
 
