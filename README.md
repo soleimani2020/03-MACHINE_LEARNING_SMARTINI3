@@ -7,7 +7,7 @@ learning, specifically multi-objective evolutionary algorithms. The framework ma
 
 ## 🌟 Key Features
 
-| # | Feature | Description | 
+| # | Feature |  | 
 |---|----------|--------------|
 | 🧩 **1. Ultra-Coarse-Grained Representation** | Captures essential membrane physics with minimal particles per lipid. |
 | 💧 **2. Implicit Solvent Model** | Removes explicit water particles while preserving hydrophobic and hydrophilic balance. |
