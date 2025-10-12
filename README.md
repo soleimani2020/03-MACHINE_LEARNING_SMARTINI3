@@ -35,7 +35,7 @@ cd MACHINE_LEARNING_SMARTINI3
 
 ### 🤝 Contribute
 
-SMARTINI3 is free and open-source software.
+**SMARTINI3** is free and open-source software.
 If you use it in your work, please consider contributing by:
 
 Improving the code
